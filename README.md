@@ -21,3 +21,12 @@ Follow these steps:
 3. **Delete book record.** Removes a book record based on the provided accession number.
 4. **View book record.** Displays a list of all book records.
 5. **Show summary.** Provides a summary of book records based on book areas and conditions.
+
+## Members
+
+- Cruz, Keeno
+- Keele, Regine Ann
+- Mallari, Veronica
+- Pamintuan, Ralph
+- Sablan, Joshua Andrei
+- **Santos, Jun Nathan**
